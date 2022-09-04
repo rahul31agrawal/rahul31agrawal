@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rahul31agrawal" target="blank"><img src="https://img.shields.io/twitter/follow/rahul31agrawal?logo=twitter&style=for-the-badge" alt="rahul31agrawal" /></a> </p>
 
-- 🔭 I’m currently working on **Notes App**
+- 🔭 I’m currently working on **Browser Extension**
 
 - 🌱 I’m currently learning **JavaScript**
 
