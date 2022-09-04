@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rahulagrawal.netlify.app/](https://rahulagrawal.netlify.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React JS**
 
 - 📫 How to reach me **rahul31agrawal@gmail.com**
 
