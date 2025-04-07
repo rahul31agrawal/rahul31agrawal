@@ -1,36 +1,75 @@
-<h1 align="center">Hi 👋, I'm Rahul Agrawal</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+# 💻 Data Engineer | Turning Data into Actionable Insights 🚀  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul31agrawal&label=Profile%20views&color=0e75b6&style=flat" alt="rahul31agrawal" /> </p>
+Hello there! 👋  
+I’m a passionate **Data Engineer** with expertise in designing and implementing scalable data solutions. I work across multiple platforms and tools to transform raw data into actionable insights that drive decision-making and innovation.  
 
-<p align="left"> <a href="https://twitter.com/rahul31agrawal" target="blank"><img src="https://img.shields.io/twitter/follow/rahul31agrawal?logo=twitter&style=for-the-badge" alt="rahul31agrawal" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Data Engineering project**
+## 🛠️ **Tech Stack & Skills**  
 
-- 🌱 I’m currently learning **AWS**
+### **Programming & Scripting**  
+- **SQL**: Proficient in writing complex queries, optimizing performance, and designing relational database structures.  
+  ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)  
+- **Python**: Expertise in scripting, automation, and data manipulation using libraries like Pandas, NumPy, and Matplotlib.  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 
-- 👯 I’m looking to collaborate on **open Source**
+---
 
-- 👨‍💻 All of my projects are available at [https://rahulagrawal.netlify.app/](https://rahulagrawal.netlify.app/)
+### **Big Data & ETL Tools**  
+- **Apache Spark**: Skilled in distributed data processing, optimizing transformations, and handling massive datasets.  
+  ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)  
+- **PySpark**: Specialized in DataFrame operations, performance tuning, and advanced analytics on Spark.  
+  ![PySpark](https://img.shields.io/badge/-PySpark-F5C518?logo=python&logoColor=white)  
+- **Apache Airflow**: Orchestrating complex workflows and ensuring robust ETL pipelines.  
+  ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)  
 
-- 💬 Ask me about **Spark**
+---
 
-- 📫 How to reach me **rahul31agrawal@gmail.com**
+### **Cloud Platforms**  
+- **Azure**: Extensive experience in Azure Data Factory, Databricks, and cloud-based data engineering workflows.  
+  ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)  
+- **AWS**: Building scalable and resilient architectures with AWS S3, Glue, and Lambda.  
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)  
 
-- ⚡ Fun fact **I am a Data Analyst turned into Data Engineer**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rahul31agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahul31agrawal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahul-agrawal-680507161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-agrawal-680507161" height="30" width="40" /></a>
-<a href="https://discord.gg/#6980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6980" height="30" width="40" /></a>
-</p>
+### **Data Engineering & Storage**  
+- **Databricks**: Expertise in building and optimizing big data pipelines for real-time processing and analytics.  
+  ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white)  
+- **Data Warehouse**: Proficient in designing and managing data warehouses for seamless querying and reporting.  
+  ![Data Warehouse](https://img.shields.io/badge/-Data%20Warehouse-FFC20A?logo=database&logoColor=white)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul31agrawal&show_icons=true&locale=en&layout=compact" alt="rahul31agrawal" /></p>
+### **CI/CD & DevOps**  
+- **Docker**: Containerizing applications and ensuring consistency across environments.  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+- **GitHub**: Managing version control and collaborating effectively across teams.  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul31agrawal&show_icons=true&locale=en" alt="rahul31agrawal" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul31agrawal&" alt="rahul31agrawal" /></p>
+### **Visualization & Analytics**  
+- **Power BI**: Designing interactive dashboards and reports to visualize complex datasets.  
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)  
+- **Microsoft Fabric**: Exploring new frontiers in data visualization and analytics.  
+  ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-0078D4?logo=microsoft&logoColor=white)  
+
+---
+
+## 🌟 **What I Do**  
+✨ **End-to-End Data Engineering**: Architecting and implementing robust data pipelines for ETL processes.  
+✨ **Cloud Integration**: Leveraging Azure and AWS for scalable and efficient data workflows.  
+✨ **Big Data Solutions**: Managing massive datasets and optimizing performance using Spark and PySpark.  
+✨ **Data Visualization**: Crafting insightful dashboards and reports with Power BI and Microsoft Fabric.  
+
+---
+
+## 🚀 **Current Focus Areas**  
+- 🏗️ Mastering **Microsoft Fabric** and **Data Mesh Architectures**.  
+- 🌐 Exploring **multi-cloud integrations** and hybrid architectures.  
+- 📈 Enhancing skills in **Data Warehousing** and **BI Tools**.  
+
+---
+
+👨‍💻 **Let’s build the future of data together!**  
